@@ -27,4 +27,12 @@ Frontend:
 
 Below are some screenshots demonstrating the application:
 
+### Welcome Page
+![](images/1.png)
+
+### Performing Operations
+![](images/2.png)
+
+![](images/3.png)
+
 
